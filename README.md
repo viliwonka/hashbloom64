@@ -22,7 +22,7 @@ A quote from Wikipedia, that already describes what Bloom filter is:
 
 The Bloom filter is created from Hash, and is also again 64 bits long.
 
-Usage: 
+## Usage 
 
 For fast comparision between strings, use `HBString` and it's method `Equals`, which returns true/false:
 
