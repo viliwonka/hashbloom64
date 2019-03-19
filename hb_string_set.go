@@ -1,4 +1,4 @@
-package crypto
+package hashbloom64
 
 // HBStringSet is slice of hashstrings
 type HBStringSet struct {

@@ -1,4 +1,4 @@
-package crypto
+package hashbloom64
 
 import (
 	"fmt"

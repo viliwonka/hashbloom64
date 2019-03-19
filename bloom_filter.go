@@ -1,4 +1,4 @@
-package crypto
+package hashbloom64
 
 // BloomFilter is a probabilistic data structure for hash strings
 type BloomFilter uint64
